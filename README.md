@@ -4,9 +4,6 @@
   <div id="header" align="center">
     <img src="https://media.giphy.com/media/3Xw8jY3zbFRtFd6eK8/giphy.gif" width="100"/>
   </div>
-
-  <p align="center">"The most powerful tool we have as developers is automation. - <strong>Unknown</strong>"</p>
-
   <div id="badges" align="center">
     <a target="_blank" href="https://www.linkedin.com/in/adebanjo-favour-%f0%9f%92%bb-217b1a251/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -19,10 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=vickymayowa&style=flat-square&color=blue" alt="my github badge counter" />
   </div>
   <br />
-
-  <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=FFF+Tusj&center=true&width=380&height=50&duration=4000&pause=1000&lines=Hi%2C+My+name+is+Favour.;Hit+me+up+for+Devops+projects.;I'm+open+to+learning." alt="Typing SVG" /></a>
-  </p>
 
 <h1 align="center">Hi 👋, I'm Favour Adebanjo</h1>
 <h3 align="center">Experienced MERN Stack Developer with a strong proficiency in Next.js, leveraging its powerful features to build high-performance web applications. Skilled in frontend and backend development, I specialize in creating responsive, interactive interfaces and robust, scalable APIs. Passionate about delivering exceptional user experiences and staying current with the latest technologies.</h3>
