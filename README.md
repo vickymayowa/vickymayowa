@@ -32,7 +32,7 @@
 
 - 🤝 I’m looking for help with **Solving errors and issues**
 
-- 👨‍💻 All of my projects are available at [https://vickydevportfolio.vercel.app/](https://vickydevportfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://techidev-portfolio-web.vercel.app/](https://techidev-portfolio-web.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@techie-dev](https://medium.com/@techie-dev)
 
@@ -40,7 +40,7 @@
 
 - 📫 How to reach me **techiedevmayowa@gmail.com**
 
-- 📄 Know about my experiences [https://vickydevportfolio.vercel.app/](https://vickydevportfolio.vercel.app/)
+- 📄 Know about my experiences [https://techidev-portfolio-web.vercel.app/](https://techidev-portfolio-web.vercel.app/)
 
 - ⚡ Fun fact **I love coding**
 
