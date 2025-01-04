@@ -1,70 +1,80 @@
-<html>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<div align="center">
+  <img src="https://media.giphy.com/media/3Xw8jY3zbFRtFd6eK8/giphy.gif" width="100" alt="Profile GIF"/>
+  <h1>Hi there, I'm Favour Adebanjo 👋</h1>
+  <h3>MERN Stack Developer | Next.js Enthusiast</h3>
 
-  <div id="header" align="center">
-    <img src="https://media.giphy.com/media/3Xw8jY3zbFRtFd6eK8/giphy.gif" width="100"/>
-  </div>
-  <div id="badges" align="center">
-    <a target="_blank" href="https://www.linkedin.com/in/adebanjo-favour-%f0%9f%92%bb-217b1a251/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a target="_blank" href="https://twitter.com/__mayowadev02">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
-  <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=vickymayowa&style=flat-square&color=blue" alt="my github badge counter" />
-  </div>
-  <br />
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adebanjo-favour-%f0%9f%92%bb-217b1a251/)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/__mayowadev02)
+  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@techie-dev)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://techidev-portfolio-web.vercel.app/)
 
-<h1 align="center">Hi 👋, I'm Favour Adebanjo</h1>
-<h3 align="center">Experienced MERN Stack Developer with a strong proficiency in Next.js, leveraging its powerful features to build high-performance web applications. Skilled in frontend and backend development, I specialize in creating responsive, interactive interfaces and robust, scalable APIs. Passionate about delivering exceptional user experiences and staying current with the latest technologies.</h3>
+  <img src="https://komarev.com/ghpvc/?username=vickymayowa&style=flat-square&color=blue" alt="Profile views" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vickymayowa" alt="vickymayowa" /></a> </p>
+## 🚀 About Me
 
-<p align="left"> <a href="https://twitter.com/__mayowadev02" target="blank"><img src="https://img.shields.io/twitter/follow/__mayowadev02?logo=twitter&style=for-the-badge" alt="__mayowadev02" /></a> </p>
+Experienced MERN Stack Developer with a strong proficiency in Next.js, leveraging its powerful features to build high-performance web applications. Skilled in frontend and backend development, I specialize in creating responsive, interactive interfaces and robust, scalable APIs. Passionate about delivering exceptional user experiences and staying current with the latest technologies.
 
-- 🔭 I’m currently working on **HealthCare Management System**
+- 🔭 I'm currently working on **HealthCare Management System**
+- 🌱 I'm currently learning **Next.js, React Native**
+- 👯 I'm looking to collaborate on **Software and Building Projects**
+- 💬 Ask me about **Frontend and Backend Technologies**
+- 📫 How to reach me: **techiedevmayowa@gmail.com**
+- ⚡ Fun fact: **I love coding**
 
-- 🌱 I’m currently learning **Nextjs, React-Native**
+## 🏆 GitHub Trophies
 
-- 👯 I’m looking to collaborate on **Software And Building Projects**
+[![trophy](https://github-profile-trophy.vercel.app/?username=vickymayowa&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🤝 I’m looking for help with **Solving errors and issues**
+## 🛠️ Skills
 
-- 👨‍💻 All of my projects are available at [https://techidev-portfolio-web.vercel.app/](https://techidev-portfolio-web.vercel.app/)
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
+</div>
 
-- 📝 I regularly write articles on [https://medium.com/@techie-dev](https://medium.com/@techie-dev)
+## 📊 GitHub Stats
 
-- 💬 Ask me about **Frontend And Backend Technologies**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vickymayowa&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vickymayowa&theme=radical" alt="GitHub Streak" />
+</div>
 
-- 📫 How to reach me **techiedevmayowa@gmail.com**
+## 📝 Latest Blog Posts
 
-- 📄 Know about my experiences [https://techidev-portfolio-web.vercel.app/](https://techidev-portfolio-web.vercel.app/)
+<!-- BLOG-POST-LIST:START -->
+- [Article 1 Title](https://medium.com/@techie-dev/article-1-link)
+- [Article 2 Title](https://medium.com/@techie-dev/article-2-link)
+- [Article 3 Title](https://medium.com/@techie-dev/article-3-link)
+<!-- BLOG-POST-LIST:END -->
 
-- ⚡ Fun fact **I love coding**
+## 🤝 Connect with me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/__mayowadev02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__mayowadev02" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/adebanjo-favour-%f0%9f%92%bb-217b1a251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adebanjo-favour-%f0%9f%92%bb-217b1a251/" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100094385412890" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100094385412890" height="30" width="40" /></a>
-<a href="https://instagram.com/techie_mayowa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="techie_mayowa" height="30" width="40" /></a>
-<a href="https://medium.com/@techie-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@techie-dev" height="30" width="40" /></a>
-<a href="https://discord.gg/1082670986975002734" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1082670986975002734" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <a href="https://twitter.com/__mayowadev02"><img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter"/></a>
+  <a href="https://www.linkedin.com/in/adebanjo-favour-%f0%9f%92%bb-217b1a251/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100094385412890"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/techie_mayowa"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/></a>
+  <a href="https://discord.gg/1082670986975002734"><img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord"/></a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
+---
+
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+</div>
+
