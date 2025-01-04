@@ -17,10 +17,20 @@ Experienced MERN Stack Developer with a strong proficiency in Next.js, leveragin
 
 - 🔭 I'm currently working on **HealthCare Management System**
 - 🌱 I'm currently learning **Next.js, React Native**
-- 👯 I'm looking to collaborate on **Software and Building Projects**
+- 👯 I'm looking to collaborate on **innovative software projects and open-source initiatives**
 - 💬 Ask me about **Frontend and Backend Technologies**
 - 📫 How to reach me: **techiedevmayowa@gmail.com**
 - ⚡ Fun fact: **I love coding**
+
+## 🛠️ Current Projects & Collaboration
+
+I'm currently working on several exciting software projects and I'm always open to collaboration! Here's what I'm up to:
+
+- 🏥 **HealthCare Management System**: A comprehensive solution for streamlining healthcare operations.
+- 🚀 **Project Name Placeholder**: Brief description of another project you're working on.
+- 💡 **Another Project Placeholder**: And another project if you have one.
+
+I'm passionate about building innovative solutions and I'm always looking for like-minded developers to collaborate with. If you're interested in any of these projects or have ideas for new ones, let's connect and create something amazing together!
 
 ## 🏆 GitHub Trophies
 
