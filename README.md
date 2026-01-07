@@ -1,92 +1,54 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3Xw8jY3zbFRtFd6eK8/giphy.gif" width="120" alt="Profile GIF"/>
-  <h1>Hi, I'm <strong>Favour Mayowa</strong></h1>
-  <h3>MERN Stack Developer • Next.js Enthusiast • Problem Solver</h3>
-
-  <a href="https://www.linkedin.com/in/adebanjo-favour-%f0%9f%92%bb-217b1a251/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/__mayowadev02">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@techie-dev">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white"/>
-  </a>
-  <a href="https://techidev-portfolio-web.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=flat&logo=Firefox-Browser&logoColor=white"/>
-  </a>
-
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=vickymayowa&style=flat-square&color=blue" alt="Profile Views"/>
+  <h1>Favour Mayowa</h1>
+  <p><strong>Full‑Stack JavaScript Developer</strong> • Next.js • MERN • DX + UX</p>
+  <a href="https://techidev-portfolio-web.vercel.app/">Portfolio</a> •
+  <a href="mailto:techiedevmayowa@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/adebanjo-favour-%f0%9f%92%bb-217b1a251/">LinkedIn</a> •
+  <a href="https://twitter.com/__mayowadev02">Twitter</a>
 </div>
 
 ---
 
-## 🚀 About Me
+## About
 
-I’m a passionate **MERN Stack Developer** with strong experience in **Next.js**, building fast, scalable, and user-friendly digital experiences.  
-I focus on clean code, strong UI/UX, and building products that solve real-world problems.
+I build fast, accessible, and scalable web applications with Next.js and the MERN stack.  
+I care about developer experience, strong architecture, and delightful user interfaces.
 
-### 💡 What I’m Working On
-- 🔭 **HealthCare Management System**
-- 🌱 Learning **Advanced Next.js & React Native**
-- 👯 Open to collaborating on **open-source and high-impact projects**
-- 💬 Ask me about **Frontend, Backend, and System Architecture**
-- 📫 Reach me at **techiedevmayowa@gmail.com**
-- ⚡ Fun fact: I love creating smooth user experiences
+- Product‑focused: from idea to deploy with measurable outcomes  
+- Practical systems thinking: clean APIs, maintainable code, data‑driven decisions  
+- Collaboration: clear communication, documentation, and iterative delivery
 
 ---
 
-## 🛠️ Tech Stack
+## Toolbox
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
-</div>
+- Frontend: Next.js, React, TypeScript, Tailwind CSS, Accessibility (a11y)
+- Backend: Node.js, Express, MongoDB, REST, GraphQL
+- Ops: Docker, CI/CD, Vercel, Render
+- Quality: Testing (Vitest/Jest), ESLint, Prettier, Git workflows
 
 ---
 
-## 📂 Current Projects
+## Featured Work
 
-- 🏥 **HealthCare Management System**  
-  A fullstack platform for managing patient records, appointments, and administrative workflows.
+- HealthCare Management System  
+  Full‑stack platform for patient records, appointments, and admin workflows.  
+  Repo/Case Study: coming soon • Demo: https://techidev-portfolio-web.vercel.app/
 
-- 🚀 **Project Placeholder #1**  
-  *(Add project details when ready.)*
-
-- 💡 **Project Placeholder #2**  
-  *(Add description when ready.)*
+- Additional Projects  
+  Add two more high‑impact links here (SaaS, dashboards, APIs).
 
 ---
 
-## 🏆 GitHub Trophies
+## What I’m Doing
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vickymayowa&theme=onedark&margin-w=10" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vickymayowa&show_icons=true&theme=radical"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vickymayowa&theme=radical"/>
-</div>
+- Building production‑grade Next.js apps with robust backend services
+- Exploring React Native and advanced Next.js patterns
+- Open to collaborating on impactful open‑source projects
 
 ---
 
-## 📝 Latest Blog Posts
+## Blog
 
 <!-- BLOG-POST-LIST:START -->
 - [Article 1 Title](https://medium.com/@techie-dev/article-1-link)
@@ -96,19 +58,18 @@ I focus on clean code, strong UI/UX, and building products that solve real-world
 
 ---
 
-## 🤝 Connect With Me
+## GitHub Stats
 
 <div align="center">
-  <a href="https://twitter.com/__mayowadev02"><img src="https://img.icons8.com/color/48/twitter.png"/></a>
-  <a href="https://www.linkedin.com/in/adebanjo-favour-%f0%9f%92%bb-217b1a251/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100094385412890"><img src="https://img.icons8.com/color/48/facebook.png"/></a>
-  <a href="https://www.instagram.com/techie_mayowa"><img src="https://img.icons8.com/color/48/instagram-new.png"/></a>
-  <a href="https://discord.gg/1082670986975002734"><img src="https://img.icons8.com/color/48/discord-logo.png"/></a>
+  <img height="160" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vickymayowa&show_icons=true&theme=tokyonight"/>
+  <img height="160" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vickymayowa&theme=tokyonight"/>
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
-</div>
+## Contact
+
+- Email: techiedevmayowa@gmail.com  
+- LinkedIn: adebanjo-favour‑💻‑217b1a251  
+- Twitter: __mayowadev02  
+- Portfolio: techidev-portfolio-web.vercel.app
