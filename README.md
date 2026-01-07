@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Favour Mayowa</h1>
-  <p><strong>Full‑Stack JavaScript Developer</strong> • Next.js • MERN • DX + UX</p>
+  <p><strong>Full‑Stack JavaScript Developer</strong> • Next.js • MERN</p>
   <a href="https://techidev-portfolio-web.vercel.app/">Portfolio</a> •
   <a href="mailto:techiedevmayowa@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/adebanjo-favour-%f0%9f%92%bb-217b1a251/">LinkedIn</a> •
@@ -14,15 +14,15 @@
 I build fast, accessible, and scalable web applications with Next.js and the MERN stack.  
 I care about developer experience, strong architecture, and delightful user interfaces.
 
-- Product‑focused: from idea to deploy with measurable outcomes  
-- Practical systems thinking: clean APIs, maintainable code, data‑driven decisions  
-- Collaboration: clear communication, documentation, and iterative delivery
+- 🚀 Product‑focused: from idea to deploy with measurable outcomes  
+- 🧠 Systems thinking: clean APIs, maintainable code, data‑driven decisions  
+- 🤝 Collaboration: clear communication, documentation, and iterative delivery
 
 ---
 
 ## Toolbox
 
-- Frontend: Next.js, React, TypeScript, Tailwind CSS, Accessibility (a11y)
+- Frontend: Next.js, React, TypeScript, Tailwind CSS, a11y
 - Backend: Node.js, Express, MongoDB, REST, GraphQL
 - Ops: Docker, CI/CD, Vercel, Render
 - Quality: Testing (Vitest/Jest), ESLint, Prettier, Git workflows
@@ -31,11 +31,11 @@ I care about developer experience, strong architecture, and delightful user inte
 
 ## Featured Work
 
-- HealthCare Management System  
+- 🏥 HealthCare Management System  
   Full‑stack platform for patient records, appointments, and admin workflows.  
   Repo/Case Study: coming soon • Demo: https://techidev-portfolio-web.vercel.app/
 
-- Additional Projects  
+- 📦 Additional Projects  
   Add two more high‑impact links here (SaaS, dashboards, APIs).
 
 ---
@@ -48,22 +48,11 @@ I care about developer experience, strong architecture, and delightful user inte
 
 ---
 
-## Blog
+## How I Work
 
-<!-- BLOG-POST-LIST:START -->
-- [Article 1 Title](https://medium.com/@techie-dev/article-1-link)
-- [Article 2 Title](https://medium.com/@techie-dev/article-2-link)
-- [Article 3 Title](https://medium.com/@techie-dev/article-3-link)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img height="160" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vickymayowa&show_icons=true&theme=tokyonight"/>
-  <img height="160" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vickymayowa&theme=tokyonight"/>
-</div>
+- Discovery → scope → MVP → iterate with feedback
+- Design systems and reusable components for long‑term velocity
+- Ship with CI/CD, observability, and clear documentation
 
 ---
 
