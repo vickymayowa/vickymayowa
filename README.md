@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/techiedevmayowa/techiedevmayowa/main/github_profile_banner.png" alt="Banner" width="100%" />
-  
   <br/>
   
   <h1>Hi, I'm Favour Mayowa 👋</h1>
