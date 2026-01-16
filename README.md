@@ -37,10 +37,10 @@ I am a dedicated **Full-Stack JavaScript Developer** with a passion for building
 
 ### 🌟 Featured Projects
 
-#### 🏥 [HealthCare Management System](https://techidev-portfolio-web.vercel.app/)
+#### 🏥 [Presence-Web Software](https://presence-web.pxxl.click/)
 A comprehensive full-stack platform designed for patient records, appointment scheduling, and administrative workflows. 
-- **Stack:** Next.js, Node.js, MongoDB, Tailwind CSS.
-- **Key Features:** Real-time appointment tracking, secure patient data management, and admin dashboard.
+- **Stack:** Next.js, TypeScript, SQL, Tailwind CSS.
+- **Key Features:** Real time software company checkins 
 
 #### 📊 [SaaS Landing Page Skeleton](https://github.com/techiedevmayowa)
 A premium, highly performant starter kit for modern SaaS products with authentication and subscription logic built-in.
