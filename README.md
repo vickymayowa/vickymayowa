@@ -2,7 +2,7 @@
   <br/>
   
   <h1>Hi, I'm Favour Mayowa 👋</h1>
-  <p><strong>Full-Stack JavaScript Developer | Next.js & MERN Expert</strong></p>
+  <p><strong>Full-Stack JavaScript Vue Developer | Next.js & MERN Expert</strong></p>
 
   <div>
     <a href="mailto:techiedevmayowa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
