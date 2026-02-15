@@ -1,7 +1,7 @@
 <div align="center">
   <br/>
   
-  <h1>Hi, I'm Favour Mayowa 👋</h1>
+  <h1>Hi, I'm Favour Mayowa </h1>
   <p><strong>Full-Stack JavaScript Developer | Next.js, Techie</strong></p>
 
   <div>
