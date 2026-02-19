@@ -36,7 +36,7 @@ Git • Postman • Figma • VS Code • Linux
 Enterprise healthcare platform handling real-time employee check-ins and administrative workflows.
 
 **Built with:** Next.js • TypeScript • SQL • Tailwind CSS  
-**Delivered:** Scalable authentication system, real-time data sync, admin dashboard
+**Delivered:** Scalable authentication system, real-time data sync, admin dashboard , user dashboard
 
 ### SaaS Landing Page Kit
 Production-ready starter for modern SaaS applications with built-in auth and payment infrastructure.
