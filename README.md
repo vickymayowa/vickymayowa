@@ -17,7 +17,7 @@ Currently shipping production applications in healthcare tech and enterprise Saa
 ## Tech Stack
 
 **Frontend Excellence**  
-Next.js • React • TypeScript • Tailwind CSS • Responsive Design
+Next.js • React.js • TypeScript • Tailwind CSS • Responsive Design
 
 **Backend & Data**  
 Node.js • Express • MongoDB • PostgreSQL • REST APIs • Database Design
@@ -26,7 +26,7 @@ Node.js • Express • MongoDB • PostgreSQL • REST APIs • Database Design
 Vercel • Docker • GitHub Actions • CI/CD Pipelines
 
 **Development Tools**  
-Git • Postman • Figma • VS Code • Linux
+Git • Postman • Figma • VS Code 
 
 ---
 
