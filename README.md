@@ -38,11 +38,24 @@ Enterprise healthcare platform handling real-time employee check-ins and adminis
 **Built with:** Next.js • TypeScript • SQL • Tailwind CSS  
 **Delivered:** Scalable authentication system, real-time data sync, admin dashboard , user dashboard
 
-### SaaS Landing Page Kit
-Production-ready starter for modern SaaS applications with built-in auth and payment infrastructure.
+## Per0cream
+A modern mobile app for ordering your favorite ice cream anytime, anywhere.
 
-**Built with:** Next.js 14 (App Router) • TypeScript • Prisma • Stripe  
-**Features:** Authentication flows, subscription management, responsive design system
+---
+
+### 🚀 Built With React-Native • NativeWind • Expo
+
+---
+
+### ✨ Features
+- Browse a variety of ice cream flavors  
+- Fast and easy ordering process  
+- Real-time order tracking  
+- Smooth and responsive user interface  
+- Cross-platform support (iOS & Android)
+
+---
+
 
 ---
 
