@@ -23,7 +23,7 @@ Next.js • React.js • TypeScript • Tailwind CSS • Responsive Design
 Node.js • Express • MongoDB • PostgreSQL • REST APIs • Database Design
 
 **Deployment & DevOps**  
-Vercel • Docker • GitHub Actions • CI/CD Pipelines
+Vercel • Aws • GitHub Actions • CI/CD Pipelines
 
 **Development Tools**  
 Git • Postman • Figma • VS Code 
