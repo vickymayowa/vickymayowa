@@ -35,7 +35,7 @@ Git • Postman • Figma • VS Code
 ### [Presence-Web Software](https://presence-web.pxxl.click/)
 Enterprise healthcare platform handling real-time employee check-ins and administrative workflows.
 
-**Built with:** Next.js • TypeScript • SQL • Tailwind CSS  
+**Built with:** Next.js • TypeScript • SQL • Tailwind CSS • Laravel
 **Delivered:** Scalable authentication system, real-time data sync, admin dashboard , user dashboard
 
 ## Per0cream
