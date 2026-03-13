@@ -5,7 +5,6 @@ Full-Stack Developer • Building production systems that scale
 [Portfolio](https://mayowa-porfolio.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/adebanjo-favour-%f0%9f%92%bb-217b1a251/) • [Twitter](https://twitter.com/__mayowadev02) • [Email](mailto:techiedevmayowa@gmail.com)
 
 ---
-
 ## What I Do
 
 I architect and build web applications from concept to deployment. My work centers on **Next.js**, **TypeScript**, and the **MERN stack** — transforming complex requirements into elegant, performant solutions.
