@@ -7,6 +7,7 @@ Full-Stack Developer • Building production systems that scale
 ---
 ## What I Do
 
+
 I architect and build web applications from concept to deployment. My work centers on **Next.js**, **TypeScript**, and the **MERN stack** — transforming complex requirements into elegant, performant solutions.
 
 Currently shipping production applications in healthcare tech and enterprise SaaS.
