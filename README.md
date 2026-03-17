@@ -1,6 +1,6 @@
 # Favour Mayowa
 
-Full-Stack Developer • Building production systems that scale
+Software - Full-Stack Developer • Building production systems that scale
 
 [Portfolio](https://mayowa-porfolio.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/adebanjo-favour-%f0%9f%92%bb-217b1a251/) • [Twitter](https://twitter.com/__mayowadev02) • [Email](mailto:techiedevmayowa@gmail.com)
 
