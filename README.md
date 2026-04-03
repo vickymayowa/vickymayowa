@@ -2,7 +2,7 @@
 
 Full-Stack Developer • Software • Building production systems that scale
 
-[Portfolio](https://mayowa-porfolio.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/adebanjo-favour-%f0%9f%92%bb-217b1a251/) • [Twitter](https://twitter.com/__mayowadev02) • [Email](mailto:techiedevmayowa@gmail.com)
+[Portfolio](https://mayowa-porfolio.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/adebanjo-favour-%f0%9f%92%bb-217b1a251/) • [Twitter](https://x.com/iamcodenior) • [Email](mailto:techiedevmayowa@gmail.com)
 
 ---
 ## What I Do
