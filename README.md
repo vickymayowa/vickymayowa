@@ -17,7 +17,7 @@ Currently shipping production applications in healthcare tech and enterprise Saa
 ## Tech Stack
 
 **Frontend Excellence**  
-Next.js • React.js • TypeScript • Tailwind CSS • Responsive Design
+Next.js • React.js • TypeScript • Tailwind CSS • 
 
 **Backend & Data**  
 Node.js • Express • MongoDB • PostgreSQL • REST APIs • Database Design
